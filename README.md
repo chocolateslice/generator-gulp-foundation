@@ -2,8 +2,8 @@
 
 [Yeoman](http://yeoman.io) generator that scaffolds out a Foundation 5 front-end web app using [Gulp](http://gulpjs.com/) for the build process.
 
-## No longer maintained
-I no longer maintain this project as I simply don't use Zurb Foundation anymore. But please, feel free to fork and modify/improve what's here. Thanks.
+## Now Maintained…
+..here. I found the original very useful and decided to give maintaining it a go.
 
 ## Features
 
